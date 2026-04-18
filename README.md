@@ -1,5 +1,5 @@
-# 💫 About Me:
-⁷## Hi👋 , I'm Harshitha N<br><br>🎓 I'm Harshitha, a CSE student passionate about technology  <br>🔭 Currently building beginner projects and improving problem-solving skills  <br>🌱 Learning Python, Web Development, and core CS concepts  <br>👯 Open to collaborating on beginner-friendly projects  <br>🤝 Looking for guidance in software development and coding growth  <br>💬 Ask me about Python basics and student tech journey  <br>
+# hi 👋, I'm Harshitha N:
+⁷## 🎓 I'm Harshitha, a CSE student passionate about technology  <br>🔭 Currently building beginner projects and improving problem-solving skills  <br>🌱 Learning Python, Web Development, and core CS concepts  <br>👯 Open to collaborating on beginner-friendly projects  <br>🤝 Looking for guidance in software development and coding growth  <br>💬 Ask me about Python basics and student tech journey  <br>
 
 
 ## 🌐 Socials:
